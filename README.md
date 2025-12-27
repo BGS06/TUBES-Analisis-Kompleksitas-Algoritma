@@ -9,6 +9,7 @@ Smart Parking Analyzer adalah aplikasi simulasi sistem parkir yang dikembangkan 
 
 UNIVERSITAS TELKOM SURABAYA
 
+APLIKASI SIAP PAKAI TERDAPAT DI RELEASE!!!
 
 Dalam pengembangan sistem parkir berskala besar (ribuan hingga jutaan slot), kecepatan pengecekan ketersediaan slot sangat krusial. Proyek ini bertujuan untuk membuktikan secara empiris perbedaan performa antara:
 1.Pendekatan Iteratif: Menggunakan perulangan (for/while).
